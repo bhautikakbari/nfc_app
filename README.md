@@ -8,8 +8,6 @@
 
 A modern Flutter application for scanning, reading, and writing NFC tags with a clean, intuitive interface.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=NFC+Scanner+App)
-
 ## ✨ Features
 
 <ul style="list-style-type: none;">
@@ -64,5 +62,3 @@ This project follows the **MVVM (Model-View-ViewModel)** architecture pattern:
     Reusable UI components
   </div>
 </div>
-
-## 📁 Project Structure
