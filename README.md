@@ -1,11 +1,5 @@
 # NFC Scanner App
 
-<div align="center">
-  <img src="https://via.placeholder.com/150?text=NFC+App" alt="NFC App Logo" width="150"/>
-  <br>
-  <span style="background-color: #6200EE; color: white; padding: 5px 10px; border-radius: 20px; font-weight: bold;">Work in Progress</span>
-</div>
-
 A modern Flutter application for scanning, reading, and writing NFC tags with a clean, intuitive interface.
 
 ## ✨ Features
