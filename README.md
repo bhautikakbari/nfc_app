@@ -56,3 +56,11 @@ This project follows the **MVVM (Model-View-ViewModel)** architecture pattern:
     Reusable UI components
   </div>
 </div>
+
+## 🔮 Future Plans
+
+- [ ] Add support for more NFC tag types
+- [ ] Implement tag encryption
+- [ ] Add cloud backup for tag history
+- [ ] Improve UI animations
+- [ ] Add tag templates for quick writing
